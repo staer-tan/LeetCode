@@ -8,6 +8,8 @@
 - Hash表的使用：典型的以空间换时间，速度很快。值得深入思考
 
 ## 重点题型
+[28. 实现 strStr() -- 字符串匹配算法(KMP)](https://github.com/staer-tan/LeetCode/blob/master/28.%20%E5%AE%9E%E7%8E%B0%20strStr().md)
+
 [66. 加一 -- 矢量数组的综合应用](https://github.com/staer-tan/LeetCode/blob/master/66.%20%E5%8A%A0%E4%B8%80.md)
 
 [125. 验证回文串 -- 字符串的特殊处理](https://github.com/staer-tan/LeetCode/blob/master/125.%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2.md)
