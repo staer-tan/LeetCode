@@ -31,3 +31,8 @@
 
 #### 二叉树
 - [98. 验证二叉搜索树 -- 中序遍历的深入扩展](https://github.com/staer-tan/LeetCode/blob/master/*98.%20%E9%AA%8C%E8%AF%81%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.md)
+
+- [101. 验证对称二叉树 -- 二叉树递归、迭代算法使用I(offer)](https://github.com/staer-tan/LeetCode/blob/master/*98.%20%E9%AA%8C%E8%AF%81%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.md)
+
+- [102. 二叉树的层次遍历 -- 二叉树递归、迭代算法使用II（重要）](https://github.com/staer-tan/LeetCode/blob/master/*102.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E6%AC%A1%E9%81%8D%E5%8E%86.md)
+
