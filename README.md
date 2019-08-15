@@ -36,3 +36,4 @@
 
 - [102. 二叉树的层次遍历 -- 二叉树递归、迭代算法使用II（重要）](https://github.com/staer-tan/LeetCode/blob/master/*102.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E6%AC%A1%E9%81%8D%E5%8E%86.md)
 
+- [108. 将有序数组转换为二叉搜索树 -- 二叉树递归+二分法结合](https://github.com/staer-tan/LeetCode/blob/master/*108.%20%E5%B0%86%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E8%BD%AC%E6%8D%A2%E4%B8%BA%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.md)
