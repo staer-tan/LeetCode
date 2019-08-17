@@ -51,3 +51,5 @@
 动态规划三个最重要的概念：最优子结构、边界、状态转移公式
 
 经典介绍例题：[70. 爬楼梯](https://github.com/staer-tan/LeetCode/blob/master/70.%20%E7%88%AC%E6%A5%BC%E6%A2%AF.md)
+
+- [53. 最大子序和 -- 动态规划的经典应用(offer)](https://github.com/staer-tan/LeetCode/blob/master/*53.%20%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C.md)
