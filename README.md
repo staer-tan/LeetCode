@@ -16,6 +16,8 @@
 ## 重点题型
 
 #### 数组
+
+##### <基础>
 - [28. 实现 strStr() -- 字符串匹配算法(KMP)](https://github.com/staer-tan/LeetCode/blob/master/28.%20%E5%AE%9E%E7%8E%B0%20strStr().md)
 
 - [66. 加一 -- 矢量数组的综合应用](https://github.com/staer-tan/LeetCode/blob/master/66.%20%E5%8A%A0%E4%B8%80.md)
@@ -27,6 +29,11 @@
 - [283. 移动零 -- 设置数组指针的计算](https://github.com/staer-tan/LeetCode/blob/master/283.%20%E7%A7%BB%E5%8A%A8%E9%9B%B6.md)
 
 - [350. 两个数组的交集 II -- Hash表的应用](https://github.com/staer-tan/LeetCode/blob/master/*350.%20%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86%20II.md)
+
+##### <进阶>
+
+- [15. 三数之和 -- 数组三个元素操作的提升](https://github.com/staer-tan/LeetCode/blob/master/%E4%B8%AD%E7%BA%A7/15.%20%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md)
+
 
 #### 字符串（链表）
 - [19. 删除链表的倒数第N个节点 -- 删除链表节点的重要习题](https://github.com/staer-tan/LeetCode/blob/master/*19.%20%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%ACN%E4%B8%AA%E8%8A%82%E7%82%B9.md)
