@@ -11,7 +11,7 @@
 
 - 动态规划：0-1背包问题，迪杰斯特拉算法，贪心算法等。
 
-- 图遍历算法：[二叉树的深度优先及广度优先遍历](https://github.com/staer-tan/LeetCode/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%B7%B1%E5%BA%A6%E4%B8%8E%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2.md)，二叉树的前中后序遍历及其扩展，图的深度优先广度优先算法。
+- 图遍历算法：(1) [二叉树的深度优先及广度优先遍历](https://github.com/staer-tan/LeetCode/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%B7%B1%E5%BA%A6%E4%B8%8E%E5%B9%BF%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2.md), (2) 二叉树的前中后序遍历及其扩展, (3) [图的深度优先广度优先搜索算法](https://github.com/staer-tan/LeetCode/blob/master/%E4%B8%AD%E7%BA%A7/*200.%20%E5%B2%9B%E5%B1%BF%E6%95%B0%E9%87%8F.md)。
 
 ## 重点题型
 
