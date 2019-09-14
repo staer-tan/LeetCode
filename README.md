@@ -51,6 +51,8 @@
 
 - [49. 字母异位词分组 -- hash表和二维数组的综合应用(重要)](https://github.com/staer-tan/LeetCode/blob/master/%E4%B8%AD%E7%BA%A7/*49.%20%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D%E5%88%86%E7%BB%84.md)
 
+- [347. 前K个高频元素 -- 最大堆和map的综合应用（重要）](https://github.com/staer-tan/LeetCode/blob/master/%E4%B8%AD%E7%BA%A7/*347.%20%E5%89%8D%20K%20%E4%B8%AA%E9%AB%98%E9%A2%91%E5%85%83%E7%B4%A0.md)
+
 #### 2. 字符串（链表）
 - [19. 删除链表的倒数第N个节点 -- 删除链表节点的重要习题](https://github.com/staer-tan/LeetCode/blob/master/*19.%20%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%ACN%E4%B8%AA%E8%8A%82%E7%82%B9.md)
 
