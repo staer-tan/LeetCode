@@ -49,6 +49,8 @@
 
 - [15. 三数之和 -- 数组三个元素操作的提升](https://github.com/staer-tan/LeetCode/blob/master/%E4%B8%AD%E7%BA%A7/15.%20%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md)
 
+- [33. 搜索旋转排序数组 -- 二分查找的进阶应用](https://github.com/staer-tan/LeetCode/blob/master/%E4%B8%AD%E7%BA%A7/*33.%20%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.md)
+
 - [49. 字母异位词分组 -- hash表和二维数组的综合应用(重要)](https://github.com/staer-tan/LeetCode/blob/master/%E4%B8%AD%E7%BA%A7/*49.%20%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D%E5%88%86%E7%BB%84.md)
 
 - [347. 前K个高频元素 -- 最大堆和map的综合应用（重要）](https://github.com/staer-tan/LeetCode/blob/master/%E4%B8%AD%E7%BA%A7/*347.%20%E5%89%8D%20K%20%E4%B8%AA%E9%AB%98%E9%A2%91%E5%85%83%E7%B4%A0.md)
