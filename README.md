@@ -90,6 +90,8 @@
 
 - [53. 最大子序和 -- 动态规划的经典应用(offer)](https://github.com/staer-tan/LeetCode/blob/master/*53.%20%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C.md)
 
+- [322. 零钱兑换 -- 动态规划的自底向上的经典试题](https://github.com/staer-tan/LeetCode/blob/master/%E4%B8%AD%E7%BA%A7/*322.%20%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.md)
+
 #### 5. 递归法
 ##### <回溯法>
 
