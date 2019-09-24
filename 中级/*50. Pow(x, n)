@@ -1,0 +1,62 @@
+## 题目地址
+https://leetcode-cn.com/problems/powx-n/
+
+## 题目描述
+```
+实现 pow(x, n) ，即计算 x 的 n 次幂函数。
+
+Example 1:
+
+输入: 2.00000, 10
+输出: 1024.00000
+
+Exmaple 2:
+
+输入: 2.10000, 3
+输出: 9.26100
+
+Exmaple 3:
+
+输入: 2.00000, -2
+输出: 0.25000
+解释: 2-2 = 1/22 = 1/4 = 0.25
+```
+
+## 思路
+
+- 递归求解法
+
+详细求解地址在[这里](https://leetcode-cn.com/problems/powx-n/solution/powx-n-by-leetcode/)
+
+实际上若采用蛮力法，则会出现时间溢出的问题，因为需要大量计算 res = res * x
+
+若采用递归，则每次将当前的运算结果直接平方，即(x^n)^2,这样就可以节省很多时间
+
+注意，在代码中的递归过程思考有些抽象，需要认真观察
+
+## 代码
+```c++
+// 递归法
+class Solution {
+public:
+    double fastPow(double x, long long n) {
+        if(n == 0)
+            return 1.0;
+        double half = fastPow(x, n / 2);
+        if(n % 2 == 0)
+            return half * half;
+        else
+            return half * half * x;
+    }
+    
+    double myPow(double x, int n) {
+        long long  N = n;
+        if(N < 0){
+            x = 1 / x;
+            N = -N;
+        }
+    return fastPow(x, N);
+    }
+};
+
+```
