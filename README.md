@@ -99,6 +99,8 @@
 
 - [13. 罗马数字转成整数 -- 一道优秀的技巧题 ](https://github.com/staer-tan/LeetCode/blob/master/13.%20%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97%E8%BD%AC%E6%95%B4%E6%95%B0.md)
 
+- [50. Pow(x,n)](https://github.com/staer-tan/LeetCode/blob/master/%E4%B8%AD%E7%BA%A7/*50.%20Pow(x%2C%20n))，[69. x的平方根 -- 两道关于数学运算递归和二分求解的应用](https://github.com/staer-tan/LeetCode/blob/master/%E4%B8%AD%E7%BA%A7/*69.%20x%20%E7%9A%84%E5%B9%B3%E6%96%B9%E6%A0%B9.md)
+
 - [118. 杨辉三角 -- 二维矢量数组的使用](https://github.com/staer-tan/LeetCode/blob/master/118.%20%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92.md)
 
 - [190|191|461. 二进制算法综合 -- 关于二进制的简单考察](https://github.com/staer-tan/LeetCode/blob/master/190%7C191%7C461.%20%E4%BA%8C%E8%BF%9B%E5%88%B6%E7%AE%97%E6%B3%95%E7%BB%BC%E5%90%88.md)
