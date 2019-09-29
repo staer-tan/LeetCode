@@ -80,6 +80,8 @@
 
 - [105. 从前序与中序遍历序列构造二叉树 -- 二叉树递归 + 设置双指针结合（重要）](https://github.com/staer-tan/LeetCode/blob/master/%E4%B8%AD%E7%BA%A7/*105.%20%E4%BB%8E%E5%89%8D%E5%BA%8F%E4%B8%8E%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97%E6%9E%84%E9%80%A0%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 
+- [116. 填充每个节点的下一个右侧节点指针 -- 双指针构建完美二叉树next指针](https://github.com/staer-tan/LeetCode/blob/master/%E4%B8%AD%E7%BA%A7/*116.%20%E5%A1%AB%E5%85%85%E6%AF%8F%E4%B8%AA%E8%8A%82%E7%82%B9%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%8F%B3%E4%BE%A7%E8%8A%82%E7%82%B9%E6%8C%87%E9%92%88.md)
+
 #### 4. 动态规划
 
 定义：采用分治思想，利用它可以实现时间复杂度的优化（也具备以空间换时间的特点）。
