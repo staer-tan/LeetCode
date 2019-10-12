@@ -1,0 +1,79 @@
+## 题目地址
+https://leetcode-cn.com/problems/palindrome-partitioning/
+
+## 题目描述
+```
+给定一个字符串 s，将 s 分割成一些子串，使每个子串都是回文串。
+
+返回 s 所有可能的分割方案。
+
+
+Example 1:
+
+输入: "aab"
+输出:
+[
+  ["aa","b"],
+  ["a","a","b"]
+]
+```
+
+## 思路
+
+- 回溯法
+
+基本思路，设置边界当导入字符达到边界时，则将该层的所有子串导入至全局变量ans中
+
+cur相当于每一层的字符串数目，当该层的字符导入全局时，需要将其中的元素pop出来
+
+关键并不是一个个向上添加的，而是用下标来控制
+
+一个lastindex表示上一个已经添加进去的回文串结束的位置
+
+当前可以从lastindex下标开始，取i在[lastindex, length()-1]之间的片段
+
+判断是回文串的话就添加到cur里，然后修改lastindex向下递归
+
+```c++
+## 代码
+// 
+class Solution {
+public:
+	vector<vector<string>>ans;
+	bool isok(string s) {
+		int length = s.length();
+		int i = 0, j = length - 1;
+		while (i < j && i < length && j>0)
+		{
+			if (s[i] != s[j])
+				return false;
+			i++;
+			j--;
+		}
+		return true;
+	}
+	void backtrack(string s, vector<string>cur, int lastindex) {
+		int n = s.length();
+		if (lastindex >= n)
+		{
+			ans.push_back(cur);
+			return;
+		}
+		for (int i = lastindex; i < n; i++) {
+			string stemp = s.substr(lastindex, i - lastindex + 1);
+			if (isok(stemp))
+			{
+				cur.push_back(stemp);
+				backtrack(s, cur, i + 1);  //此处加入下一个判断的是i+1
+				cur.pop_back();     //回溯法的核心抛出，相当于重新构建新的cur，一层用完换新的cur
+			}
+		}
+	}
+	vector<vector<string>> partition(string s) {
+		vector<string>cur;
+		backtrack(s, cur, 0);
+		return ans;
+	}
+};
+
+```
