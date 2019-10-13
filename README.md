@@ -94,6 +94,8 @@
 
 - [322. 零钱兑换 -- 动态规划的自底向上的经典试题](https://github.com/staer-tan/LeetCode/blob/master/%E4%B8%AD%E7%BA%A7/*322.%20%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.md)
 
+- [139. 单词拆分 -- 动态规划的分治分支应用]（https://github.com/staer-tan/LeetCode/blob/master/%E4%B8%AD%E7%BA%A7/*139.%20%E5%8D%95%E8%AF%8D%E6%8B%86%E5%88%86.md）
+
 #### 5. 递归法
 ##### <回溯法>
 
