@@ -60,7 +60,11 @@
 
 - [21. 合并两个有序链表 -- 指针的综合运用(offer)](https://github.com/staer-tan/LeetCode/blob/master/*21.%20%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8.md)
 
+- [148. 排链表 -- 链表排序重要题型（多种链表操作综合应用）（重要）](https://github.com/staer-tan/LeetCode/blob/master/中级/**148.%20排序链表.md)
+
 - [206. 反转链表 -- 多种方法对字符串的操作(offer)](https://github.com/staer-tan/LeetCode/blob/master/*206.%20%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md)
+
+
 
 #### 3. 二叉树（树）
 
