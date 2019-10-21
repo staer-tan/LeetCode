@@ -88,6 +88,8 @@
 
 - [208. 实现Trie(前缀树) -- 前缀树的建立和相关指针综合操作](https://github.com/staer-tan/LeetCode/blob/master/%E4%B8%AD%E7%BA%A7/*208.%20%E5%AE%9E%E7%8E%B0%20Trie%20(%E5%89%8D%E7%BC%80%E6%A0%91).md)
 
+- [236. 二叉树的最近公共祖先 -- 二叉树的递归法求解的经典例题](https://github.com/staer-tan/LeetCode/blob/master/%E4%B8%AD%E7%BA%A7/*238.%20%E9%99%A4%E8%87%AA%E8%BA%AB%E4%BB%A5%E5%A4%96%E6%95%B0%E7%BB%84%E7%9A%84%E4%B9%98%E7%A7%AF.md)
+
 #### 4. 动态规划
 
 定义：采用分治思想，利用它可以实现时间复杂度的优化（也具备以空间换时间的特点）。
