@@ -1,6 +1,10 @@
 # LeetCode
 文档用于存储平日所练习LeetCode题目的代码和思考方法，记录日常学习~
 
+## 程序设计基本内容
+
+- [C++\Java程序设计基础内容](https://github.com/staer-tan/LeetCode/blob/master/***C%2B%2B%5CJava%E5%9F%BA%E7%A1%80%E5%86%85%E5%AE%B9.md)
+
 ## 未来基础进阶
 
 - 数组排序：快速排序、插入排序、堆排序等。非常重要，在对数组进行操作时，对数组首先进行排序，将减少复杂度和运算量。
