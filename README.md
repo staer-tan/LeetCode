@@ -110,6 +110,8 @@
 
 - [139. 单词拆分 -- 动态规划的分治分支应用](https://github.com/staer-tan/LeetCode/blob/master/%E4%B8%AD%E7%BA%A7/*139.%20%E5%8D%95%E8%AF%8D%E6%8B%86%E5%88%86.md)
 
+- [279. 完全平方数 -- 动态规划的数组（链表法）的应用](https://github.com/staer-tan/LeetCode/blob/master/%E4%B8%AD%E7%BA%A7/*279.%20%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0.md)
+
 #### 5. 递归法
 ##### <回溯法>
 
