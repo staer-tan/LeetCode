@@ -104,15 +104,15 @@
 
 - [53. 最大子序和 -- 动态规划的经典应用(offer)](https://github.com/staer-tan/LeetCode/blob/master/*53.%20%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C.md)
 
-- [152. 乘积最大子序列 -- 动态规划的进阶（注意与53.最大子序和比较）](https://github.com/staer-tan/LeetCode/blob/master/%E4%B8%AD%E7%BA%A7/*152.%20%E4%B9%98%E7%A7%AF%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%88%97.md)
-
-- [322. 零钱兑换 -- 动态规划的自底向上的经典试题](https://github.com/staer-tan/LeetCode/blob/master/%E4%B8%AD%E7%BA%A7/*322.%20%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.md)
-
 - [139. 单词拆分 -- 动态规划的分治分支应用](https://github.com/staer-tan/LeetCode/blob/master/%E4%B8%AD%E7%BA%A7/*139.%20%E5%8D%95%E8%AF%8D%E6%8B%86%E5%88%86.md)
+
+- [152. 乘积最大子序列 -- 动态规划的进阶（注意与53.最大子序和比较）](https://github.com/staer-tan/LeetCode/blob/master/%E4%B8%AD%E7%BA%A7/*152.%20%E4%B9%98%E7%A7%AF%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%88%97.md)
 
 - [279. 完全平方数 -- 动态规划的数组（链表法）的应用](https://github.com/staer-tan/LeetCode/blob/master/%E4%B8%AD%E7%BA%A7/*279.%20%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0.md)
 
-- [329. 矩阵中的最长递增路径 -- 动归于DFS算法基于设置额外空间的结合使用（重要）](https://github.com/staer-tan/LeetCode/blob/master/%E4%B8%AD%E7%BA%A7/**329.%20%E7%9F%A9%E9%98%B5%E4%B8%AD%E7%9A%84%E6%9C%80%E9%95%BF%E9%80%92%E5%A2%9E%E8%B7%AF%E5%BE%84.md)
+- [322. 零钱兑换 -- 动态规划的自底向上的经典试题](https://github.com/staer-tan/LeetCode/blob/master/%E4%B8%AD%E7%BA%A7/*322.%20%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.md)
+
+- [329. 矩阵中的最长递增路径 -- 动归与DFS算法基于通过额外空间的使用（重要）](https://github.com/staer-tan/LeetCode/blob/master/%E4%B8%AD%E7%BA%A7/**329.%20%E7%9F%A9%E9%98%B5%E4%B8%AD%E7%9A%84%E6%9C%80%E9%95%BF%E9%80%92%E5%A2%9E%E8%B7%AF%E5%BE%84.md)
 
 #### 5. 递归法
 ##### <回溯法>
