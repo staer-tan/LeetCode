@@ -68,8 +68,6 @@
 
 - [206. 反转链表 -- 多种方法对字符串的操作(offer)](https://github.com/staer-tan/LeetCode/blob/master/*206.%20%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md)
 
-
-
 #### 3. 二叉树（树）
 
 ##### <基础>
@@ -94,7 +92,11 @@
 
 - [236. 二叉树的最近公共祖先 -- 二叉树的递归法求解的经典例题](https://github.com/staer-tan/LeetCode/blob/master/%E4%B8%AD%E7%BA%A7/*238.%20%E9%99%A4%E8%87%AA%E8%BA%AB%E4%BB%A5%E5%A4%96%E6%95%B0%E7%BB%84%E7%9A%84%E4%B9%98%E7%A7%AF.md)
 
-#### 4. 动态规划
+#### 4. 哈希与映射（hash表和图）
+
+- [146. LRU缓存机制.md -- hash表和双向链表的结合（非常重要!）](https://github.com/staer-tan/LeetCode/blob/master/%E4%B8%AD%E7%BA%A7/**146.%20LRU%E7%BC%93%E5%AD%98%E6%9C%BA%E5%88%B6.md)
+
+#### 5. 动态规划
 
 定义：采用分治思想，利用它可以实现时间复杂度的优化（也具备以空间换时间的特点）。
 
@@ -114,7 +116,7 @@
 
 - [329. 矩阵中的最长递增路径 -- 动归与DFS算法基于通过额外空间的使用（重要）](https://github.com/staer-tan/LeetCode/blob/master/%E4%B8%AD%E7%BA%A7/**329.%20%E7%9F%A9%E9%98%B5%E4%B8%AD%E7%9A%84%E6%9C%80%E9%95%BF%E9%80%92%E5%A2%9E%E8%B7%AF%E5%BE%84.md)
 
-#### 5. 递归法
+#### 6. 递归法
 ##### <回溯法>
 
 - [131. 分割回文串 -- 回溯法在字符串经典应用（分层的思想）](https://github.com/staer-tan/LeetCode/blob/master/%E4%B8%AD%E7%BA%A7/*131.%20%E5%88%86%E5%89%B2%E5%9B%9E%E6%96%87%E4%B8%B2)
