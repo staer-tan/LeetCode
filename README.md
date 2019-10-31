@@ -102,7 +102,7 @@
 
 - [207. 课程表 -- 拓扑图的广度优先搜索（基于队列迭代方法）](https://github.com/staer-tan/LeetCode/blob/master/%E4%B8%AD%E7%BA%A7/*207.%20%E8%AF%BE%E7%A8%8B%E8%A1%A8.md)
 
-#### 5. 动态规划
+#### 6. 动态规划
 
 定义：采用分治思想，利用它可以实现时间复杂度的优化（也具备以空间换时间的特点）。
 
@@ -122,7 +122,7 @@
 
 - [329. 矩阵中的最长递增路径 -- 动归与DFS算法基于通过额外空间的使用（重要）](https://github.com/staer-tan/LeetCode/blob/master/%E4%B8%AD%E7%BA%A7/**329.%20%E7%9F%A9%E9%98%B5%E4%B8%AD%E7%9A%84%E6%9C%80%E9%95%BF%E9%80%92%E5%A2%9E%E8%B7%AF%E5%BE%84.md)
 
-#### 6. 递归法
+#### 7. 递归法
 ##### <回溯法>
 
 - [131. 分割回文串 -- 回溯法在字符串经典应用（分层的思想）](https://github.com/staer-tan/LeetCode/blob/master/%E4%B8%AD%E7%BA%A7/*131.%20%E5%88%86%E5%89%B2%E5%9B%9E%E6%96%87%E4%B8%B2)
