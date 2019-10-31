@@ -96,6 +96,12 @@
 
 - [146. LRU缓存机制.md -- hash表和双向链表的结合（非常重要!）](https://github.com/staer-tan/LeetCode/blob/master/%E4%B8%AD%E7%BA%A7/**146.%20LRU%E7%BC%93%E5%AD%98%E6%9C%BA%E5%88%B6.md)
 
+#### 5. 图
+
+图的基本算法知识在上方简介中有提及，本节将推广更多关于图的应用
+
+- [207. 课程表 -- 拓扑图的广度优先搜索（基于队列迭代方法）](https://github.com/staer-tan/LeetCode/blob/master/%E4%B8%AD%E7%BA%A7/*207.%20%E8%AF%BE%E7%A8%8B%E8%A1%A8.md)
+
 #### 5. 动态规划
 
 定义：采用分治思想，利用它可以实现时间复杂度的优化（也具备以空间换时间的特点）。
