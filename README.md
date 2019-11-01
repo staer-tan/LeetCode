@@ -100,7 +100,7 @@
 
 图的基本算法知识在上方简介中有提及，本节将推广更多关于图的应用
 
-- [207. 课程表 -- 拓扑图的广度优先搜索（基于队列迭代方法）](https://github.com/staer-tan/LeetCode/blob/master/%E4%B8%AD%E7%BA%A7/*207.%20%E8%AF%BE%E7%A8%8B%E8%A1%A8.md)
+- [207. 课程表I & 210. 课程表 II -- 拓扑图的广度优先搜索（基于队列迭代方法）](https://github.com/staer-tan/LeetCode/blob/master/%E4%B8%AD%E7%BA%A7/*207.%20%E8%AF%BE%E7%A8%8B%E8%A1%A8%20I%20&%20210.%20%E8%AF%BE%E7%A8%8B%E8%A1%A8%20II.md)
 
 #### 6. 动态规划
 
