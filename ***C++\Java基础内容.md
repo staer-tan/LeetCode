@@ -34,6 +34,12 @@
 
 （4）翻转 单纯的String类似没有直接可用的翻转函数，可以将其转为StringBuilder形式调用函数进行翻转
 
+（5）字符串初始化 
+
+若String s = null,则表示一个字符串对象的引用，但指向为null；
+
+若String str = "";表示声明一个字符串类型的引用，其值为""空字符串
+
 - StringBuilder / StringBuffer
 
 StringBuilder对象则代表一个字符序列可变的字符串，当一个StringBuffer被创建以后，
