@@ -113,6 +113,8 @@
 
 - [207. 课程表I & 210. 课程表 II -- 拓扑图的广度优先搜索（基于队列迭代方法）](https://github.com/staer-tan/LeetCode/blob/master/%E4%B8%AD%E7%BA%A7/*207.%20%E8%AF%BE%E7%A8%8B%E8%A1%A8%20I%20&%20210.%20%E8%AF%BE%E7%A8%8B%E8%A1%A8%20II.md)
 
+- [695. 岛屿的最大面积 -- 基于回溯法的图深度优先遍历](https://github.com/staer-tan/LeetCode/blob/master/%E4%BC%81%E4%B8%9A%E9%A2%98/*695.%20%E5%B2%9B%E5%B1%BF%E7%9A%84%E6%9C%80%E5%A4%A7%E9%9D%A2%E7%A7%AF.md)
+
 #### 6. 动态规划
 
 定义：采用分治思想，利用它可以实现时间复杂度的优化（也具备以空间换时间的特点）。
