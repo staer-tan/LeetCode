@@ -133,7 +133,13 @@
 
 - [279. 完全平方数 -- 动态规划的数组（链表法）的应用](https://github.com/staer-tan/LeetCode/blob/master/%E4%B8%AD%E7%BA%A7/*279.%20%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0.md)
 
-- [322. 零钱兑换 -- 动态规划的自底向上的经典试题](https://github.com/staer-tan/LeetCode/blob/master/%E4%B8%AD%E7%BA%A7/*322.%20%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.md)
++-----------------------
+
+- [64. 最小路径和 -- 动规的自底向上的试题I](https://github.com/staer-tan/LeetCode/blob/master/%E4%BC%81%E4%B8%9A%E9%A2%98/*64.%20%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C.md)
+
+- [322. 零钱兑换 -- 动态规划的自底向上的经典试题II](https://github.com/staer-tan/LeetCode/blob/master/%E4%B8%AD%E7%BA%A7/*322.%20%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.md)
+
++-----------------------
 
 - [329. 矩阵中的最长递增路径 -- 动归与DFS算法基于通过额外空间的使用（重要）](https://github.com/staer-tan/LeetCode/blob/master/%E4%B8%AD%E7%BA%A7/**329.%20%E7%9F%A9%E9%98%B5%E4%B8%AD%E7%9A%84%E6%9C%80%E9%95%BF%E9%80%92%E5%A2%9E%E8%B7%AF%E5%BE%84.md)
 
