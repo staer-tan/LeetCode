@@ -146,6 +146,8 @@
 #### 7. 递归法
 ##### <回溯法>
 
+- [39. 组合总和 -- 回溯与减枝法的应用](https://github.com/staer-tan/LeetCode/blob/master/%E4%BC%81%E4%B8%9A%E9%A2%98/*39.%20%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C.md)
+
 - [131. 分割回文串 -- 回溯法在字符串经典应用（分层的思想）](https://github.com/staer-tan/LeetCode/blob/master/%E4%B8%AD%E7%BA%A7/*131.%20%E5%88%86%E5%89%B2%E5%9B%9E%E6%96%87%E4%B8%B2)
 
 #### 数学与其他
