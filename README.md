@@ -166,3 +166,5 @@
 - [169. 求众数 -- 标记指针的灵活运用减少时间复杂度(与347可相比较)](https://github.com/staer-tan/LeetCode/blob/master/%E4%B8%AD%E7%BA%A7/*169.%20%E6%B1%82%E4%BC%97%E6%95%B0.md)
 
 - [190|191|461. 二进制算法综合 -- 关于二进制的简单考察](https://github.com/staer-tan/LeetCode/blob/master/190%7C191%7C461.%20%E4%BA%8C%E8%BF%9B%E5%88%B6%E7%AE%97%E6%B3%95%E7%BB%BC%E5%90%88.md)
+
+- [543. 二叉树的直径 -- 在递归环境下使用全局变量保存最优值](https://github.com/staer-tan/LeetCode/blob/master/%E4%BC%81%E4%B8%9A%E9%A2%98/*543.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E7%9B%B4%E5%BE%84.md)
