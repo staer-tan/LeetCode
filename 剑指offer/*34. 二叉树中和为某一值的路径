@@ -1,0 +1,75 @@
+## 题目地址
+[牛客：二叉树的下一个结点](https://www.nowcoder.com/practice/9023a0c988684a53960365b889ceaf5e?tpId=13&tqId=11210&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
+
+## 题目描述
+```
+输入一颗二叉树的根节点和一个整数，打印出二叉树中结点值的和为输入整数的所有路径。路径定义为从树的根结点开始往下一直到叶结点所经过的结点形成一条路径。(注意: 在返回值的list中，数组长度大的数组靠前)
+
+```
+
+## 思路
+
+- 递归法
+
+详细题解，见剑指offer(P184)
+
+值得注意的地方：
+
+① 采用递归的思想，在导入一个序列需要把不满足的节点要及时删除。在代码中有两个部分展现。
+
+② 在java中使用二维arraylist，当导入一维时需要使用new的方式，并把一维的数据导入。
+
+③ 使用递归很重要就是边界以及递归函数，通常习惯把边界放在递归函数的最前面。
+
+
+## 代码
+
+```java
+import java.util.ArrayList;
+/**
+public class TreeNode {
+    int val = 0;
+    TreeNode left = null;
+    TreeNode right = null;
+
+    public TreeNode(int val) {
+        this.val = val;
+
+    }
+
+}
+*/
+public class Solution {
+    public ArrayList<ArrayList<Integer>> FindPath(TreeNode root,int target) {
+        ArrayList<ArrayList<Integer>> printPath = new ArrayList<ArrayList<Integer>>();
+        if(root == null) return printPath;
+        ArrayList<Integer> oneOfPath = new ArrayList<>();
+        int currentSum = 0;
+        PrintPath(root, printPath, oneOfPath, target, currentSum);
+        return printPath;
+    }
+    
+    private void PrintPath
+        (TreeNode root, ArrayList<ArrayList<Integer>> printPath,
+         ArrayList<Integer> oneOfPath, int target, int currentSum){
+        if(root == null) return;
+        currentSum += root.val;
+        
+        if(root.left == null && root.right == null){
+            if(currentSum == target){
+                oneOfPath.add(root.val);
+                printPath.add(new ArrayList<Integer>(oneOfPath)); // 在Java中，构建二维arraylist，需要通过new一个一维arraylist形式
+                oneOfPath.remove(oneOfPath.size() - 1);
+            }
+            return;
+        }
+        
+        oneOfPath.add(root.val);
+        PrintPath(root.left, printPath, oneOfPath, target, currentSum);
+        PrintPath(root.right, printPath, oneOfPath, target, currentSum);
+        
+        oneOfPath.remove(oneOfPath.size() - 1);
+        
+    }
+}
+```
