@@ -31,6 +31,14 @@
 
 ② kruskal：每次选择图中最小边权的边，如果边两端的顶点在不同的连通块种，则把这条边加入最小生成树中。
 
+## 常考基础题型
+
+- [1. 快速排序 -- 腾讯字节拼多多常考，算法题常见框架](https://github.com/staer-tan/LeetCode/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F.md)
+
+- [2. LRU -- 腾讯常考，双向链表的综合使用](https://github.com/staer-tan/LeetCode/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/LRU%E7%9A%84%E7%90%86%E8%A7%A3%E4%B8%8E%E5%AE%9E%E7%8E%B0.md)
+
+- [3. KMP算法](https://github.com/staer-tan/LeetCode/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/KMP%E7%AE%97%E6%B3%95.md)
+
 ## 重点题型
 
 #### 1. 数组
