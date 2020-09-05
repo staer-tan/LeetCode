@@ -39,7 +39,7 @@
 
 - [3. KMP算法](https://github.com/staer-tan/LeetCode/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/KMP%E7%AE%97%E6%B3%95.md)
 
-- [4. 股票买卖的最大利润](https://github.com/staer-tan/LeetCode/blob/master/**%E4%B9%B0%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%9F(%E9%87%8D).md)
+- [4. 股票买卖的最大利润 -- 三种题型，覆盖峰谷法，标定值，动态规划](https://github.com/staer-tan/LeetCode/blob/master/**%E4%B9%B0%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%9F(%E9%87%8D).md)
 
 ## 重点题型
 
